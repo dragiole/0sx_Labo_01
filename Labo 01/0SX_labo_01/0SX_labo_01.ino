@@ -1,6 +1,5 @@
 
 const int ledPin = 13;
-int brightnessUp=15;
 void setup() {
   pinMode(ledPin, OUTPUT);
   Serial.begin(9600);
